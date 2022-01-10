@@ -1,11 +1,12 @@
 ### Bin2Summary  
 
-This is the official repository for Bin2Summary, which is a binary analysis tool for PE binaries. We will actively update it.  
+This is the official repository for Bin2Summary, which is a binary analysis tool for PE files. We will actively update it.  
 
 #### Requirements:  
 Python >= 3.6  
 Tensorflow >= 2.1.0  
 gensim >= 4.0.1  
+nltk  
 
 #### Run the Tool  
 
