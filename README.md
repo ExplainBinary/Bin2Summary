@@ -19,7 +19,7 @@ python model_test.py --Mode test
 python model_test.py --Mode case
 ```
 
-- To test the pre-trained seq2seq model with the given samples in the case studies (i.e., MyDoom and WannaCry).
+- (Optional) To test the pre-trained seq2seq model with the given malware samples (i.e., MyDoom and WannaCry).
 
 
 #### FAQ  
